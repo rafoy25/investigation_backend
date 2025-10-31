@@ -1,6 +1,6 @@
 # Vector Database Comparison Tool
 
-A comprehensive Streamlit application for comparing different vector databases by uploading files, generating embeddings, and evaluating performance metrics.
+A comprehensive application for comparing different vector databases by uploading files, generating embeddings, and evaluating performance metrics.
 
 ## Features
 
